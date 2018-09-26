@@ -1,0 +1,19 @@
+{
+  "name": "react-online-retailers",
+  "version": "1.0.0",
+  "description": "使用React的电商后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxiao0216/React-Online-retailers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxiao0216/React-Online-retailers/issues"
+  },
+  "homepage": "https://github.com/zxiao0216/React-Online-retailers#readme"
+}
